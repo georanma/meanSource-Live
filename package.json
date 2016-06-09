@@ -1,0 +1,17 @@
+{
+  "name": "node-api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cors": "^2.7.1",
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "nodemon": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  }
+}
